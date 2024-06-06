@@ -3,7 +3,7 @@
 ## About Me 🚀
 
 <img src="https://media.licdn.com/dms/image/D4E22AQE_PCRKAqQsmg/feedshare-shrink_2048_1536/0/1716558595031?e=1720656000&v=beta&t=Pr-1Ot1t-SP2eba9x-NEu1qmb4WA6e5oPyClogvbrvo"
-style="max-width: 60%">
+width = 500px>
 </br>
 
 - Aspiring Full-Stack developer 🌐
