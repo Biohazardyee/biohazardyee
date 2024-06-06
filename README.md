@@ -35,8 +35,8 @@ My goal is to contribute to advancements that enhance **ecological sustainabilit
 
 Feel free to reach out for collaboration, questions, or just a tech chat!
 
-Email: thibaud.marlier@algosup.com \
-LinkedIn: Thibaud Marlier
+**Email: thibaud.marlier@algosup.com**  
+**LinkedIn: [Thibaud Marlier](https://www.linkedin.com/in/thibaudmarlier/)**
 
 ## GitHub Stats 📈
 <div align="center">
