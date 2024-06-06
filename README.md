@@ -1,8 +1,7 @@
 # Hey Fellow Tech Enthusiast 👋
 ## About Me 🚀
 
-<img src="https://media.licdn.com/dms/image/D4E22AQE_PCRKAqQsmg/feedshare-shrink_2048_1536/0/1716558595031?e=1720656000&v=beta&t=Pr-1Ot1t-SP2eba9x-NEu1qmb4WA6e5oPyClogvbrvo"
-width = 100% height = 600>
+<img src="https://media.licdn.com/dms/image/D4E22AQE_PCRKAqQsmg/feedshare-shrink_2048_1536/0/1716558595031?e=1720656000&v=beta&t=Pr-1Ot1t-SP2eba9x-NEu1qmb4WA6e5oPyClogvbrvo">
 </br>
 
 I'm **Thibaud** "Biohazard" **Marlier**, an aspiring **Full-Stack** developer with a deep passion for software development, cybersecurity, and airplanes. Currently, I’m pursuing my studies at [ALGOSUP](https://algosup.com/en.html) in **Vierzon**, France, where I'm gaining practical knowledge through real-world projects in a **100%** English curriculum.
