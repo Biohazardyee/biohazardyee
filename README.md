@@ -16,7 +16,7 @@ My goal is to contribute to advancements that enhance **ecological sustainabilit
 
 ## Projects 🌟
 
-**Project [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)**: During this project, we created a **virtual processor** from scratch using the **C programming language**. We aimed to develop an **educational** CPU that could be utilized by everyone, from beginners to professional developers. Additionally, we created a **compiler** capable of compiling our assembly language. This project provided an excellent opportunity to deepen our understanding of CPU functionality and compiler construction.
+- **Project [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)**: During this project, we created a **virtual processor** from scratch using the **C programming language**. We aimed to develop an **educational** CPU that could be utilized by everyone, from beginners to professional developers. Additionally, we created a **compiler** capable of compiling our assembly language. This project provided an excellent opportunity to deepen our understanding of CPU functionality and compiler construction.
 
 ## Education 🎓
 
@@ -37,3 +37,11 @@ Feel free to reach out for collaboration, questions, or just a tech chat!
 
 Email: thibaud.marlier@algosup.com \
 LinkedIn: Thibaud Marlier
+
+## GitHub Stats 📈
+
+[![Biohazardyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark)]
+
+## Spotify 🎵
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wylvftszdvo2yinz5azdmyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
