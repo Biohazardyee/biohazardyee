@@ -37,11 +37,15 @@ Feel free to reach out for collaboration, questions, or just a tech chat!
 
 ## GitHub Stats 📈
 <div align="center">
+  
 [![Biohazardyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark)]
+
 </div>
 
 ## Spotify 🎵
 
 <div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21wylvftszdvo2yinz5azdmyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
