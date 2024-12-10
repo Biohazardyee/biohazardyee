@@ -7,9 +7,11 @@ My goal is to contribute to advancements that enhance **ecological sustainabilit
 
 ## Skills 💡
 
-- **Programming Languages**: Flutter/Dart, Python, C++
+- **Programming Languages**: Flutter/Dart, Python, C++, GDScript, Verilog
 - **Languages**: English (fluent), French (native), German (scholar)
 - **Soft Skills**: Management, Communication, Teamwork, Problem-Solving
+- **Game Engine**: Godot
+- **Technical Writing**
 
 ## Projects 🌟
 
