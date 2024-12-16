@@ -15,7 +15,15 @@ My goal is to contribute to advancements that enhance **ecological sustainabilit
 
 ## Projects 🌟
 
-- **Project [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)**: During this project, we created a **virtual processor** from scratch using the **C programming language**. We aimed to develop an **educational** CPU that could be utilized by everyone, from beginners to professional developers. Additionally, we created a **compiler** capable of compiling our assembly language. This project provided an excellent opportunity to deepen our understanding of CPU functionality and compiler construction.
+### School Projects
+
+- **Project [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)**: During this project, we created a **virtual processor** from scratch using the **C programming language**. We aimed to develop an **educational** CPU that could be utilized by everyone, from beginners to professional developers. Additionally, we created a **compiler** capable of compiling our assembly language. This project provided an excellent opportunity to deepen our understanding of CPU functionality and compiler construction. (Project Manager)
+
+- **Project [AdoptACandidate](https://github.com/algosup/2023-2024-project-5-flutter-team-3)**: During this project, we developed a Tinder-like mobile application designed to streamline the recruitment process for both job-seekers and HR professionals. The application focused on fostering anonymity to reduce biases in hiring, enabling fairer and more inclusive matches between candidates and companies. Built using Flutter and the Dart programming language, this project offered an excellent opportunity to explore modern mobile application development while addressing key challenges in the recruitment industry. (Software Engineer)
+
+- **Project [SeriousGame](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)**: During this project, we developed a serious video game with the goal of raising awareness and educating players about the complex concepts of climate change. The game aimed to simplify and convey critical environmental issues in an engaging and interactive way. Built using the Godot Engine and the GDScript programming language, this project provided an opportunity to explore the intersection of education, gaming, and environmental advocacy, showcasing the potential of video games as a powerful tool for social impact. (Software Engineer)
+
+- **Project [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-8)**:During this project, we recreated the iconic Frogger arcade game using the exotic technology of FPGAs. The game was implemented in the Verilog programming language, requiring us to navigate unique hardware constraints and optimize performance. This project offered a hands-on opportunity to explore the potential of FPGA technology in gaming applications while deepening our understanding of hardware programming and real-time system design. (Technical Writer)
 
 ## Education 🎓
 
