@@ -1,9 +1,10 @@
-# Hey Fellow Tech Enthusiast 👋
+# Hey Fellow Tech Enthusiast! 👋
+
 ## About Me 🚀
 
-I'm **Thibaud** "Biohazard" **Marlier**, an aspiring **Full-Stack** developer with a deep passion for software development, cybersecurity, and airplanes. Currently, I’m pursuing my studies at [ALGOSUP](https://algosup.com/en.html) in **Vierzon**, France, where I'm gaining practical knowledge through real-world projects in a **100%** English curriculum.
+I'm **Thibaud** "Biohazard" **Marlier**, an aspiring **Full-Stack Developer** with a passion for software development, cybersecurity, and aviation. Currently, I’m studying at [ALGOSUP](https://algosup.com/en.html) in **Vierzon**, France, where I gain practical knowledge through real-world projects in a **100% English curriculum**.
 
-My goal is to contribute to advancements that enhance **ecological sustainability**, **economic efficiency**, and overall **well-being**. Whether it’s designing more efficient aircraft or developing **sustainable aerospace systems**, I am driven to make a positive impact on our world.
+My mission is to contribute to advancements that enhance **ecological sustainability**, **economic efficiency**, and overall **well-being**. Whether it’s designing more efficient aircraft or developing **sustainable aerospace systems**, I am driven to make a positive impact on our world.
 
 ## Skills 💡
 
@@ -23,7 +24,7 @@ My goal is to contribute to advancements that enhance **ecological sustainabilit
 
 - **Project [SeriousGame](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)**: During this project, we developed a serious video game with the goal of raising awareness and educating players about the complex concepts of climate change. The game aimed to simplify and convey critical environmental issues in an engaging and interactive way. Built using the Godot Engine and the GDScript programming language, this project provided an opportunity to explore the intersection of education, gaming, and environmental advocacy, showcasing the potential of video games as a powerful tool for social impact. (Software Engineer)
 
-- **Project [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-8)**:During this project, we recreated the iconic Frogger arcade game using the exotic technology of FPGAs. The game was implemented in the Verilog programming language, requiring us to navigate unique hardware constraints and optimize performance. This project offered a hands-on opportunity to explore the potential of FPGA technology in gaming applications while deepening our understanding of hardware programming and real-time system design. (Technical Writer)
+- **Project [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-8)**: During this project, we recreated the iconic Frogger arcade game using the exotic technology of FPGAs. The game was implemented in the Verilog programming language, requiring us to navigate unique hardware constraints and optimize performance. This project offered a hands-on opportunity to explore the potential of FPGA technology in gaming applications while deepening our understanding of hardware programming and real-time system design. (Technical Writer)
 
 ## Education 🎓
 
