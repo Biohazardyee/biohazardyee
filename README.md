@@ -51,7 +51,7 @@ A **Node.js/Express.js RESTful API** for an online food ordering platform, featu
   *Master’s in Computer Science (ongoing)* — focus on full-stack dev, cybersecurity, cloud.
 
 - **ALGOSUP** — Vierzon, France  
-  *Software Engineering program (completed coursework)* — project-based learning in an English environment.
+  *Software Engineering program (2 Years Completed)* — project-based learning in an English environment.
 
 ---
 
