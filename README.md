@@ -70,17 +70,13 @@ A reimplementation of *Frogger* on FPGA using **Verilog** — exploring hardware
 
 ## 📊 GitHub Stats
 
-<div align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark&show_icons=true)
-</div>
 
 ---
 
 ## 🎵 Spotify
 
-<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hfqp8c18cnz6lgj2zzykeq3hf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/hfqp8c18cnz6lgj2zzykeq3hf)
-</div>
 
 ---
 
