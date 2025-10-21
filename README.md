@@ -11,13 +11,37 @@ My mission is to contribute to advancements that promote **ecological sustainabi
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Technical Skills 💡
 
-- **Languages:** C++, C#, JS, Assembly, HTML/CSS 
-- **Frameworks & Tools:** Godot, Git, VS Code
-- **Soft Skills:** Leadership, Communication, Teamwork, Problem-Solving  
-- **Languages (spoken):** French (native) • English (fluent) • German (scholar)  
-- **Interests:** Aerospace, Sustainable Tech, Web Application, Application Development
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+### Soft Skills
+![Leadership](https://img.shields.io/badge/Leadership-FF9800)
+![Communication](https://img.shields.io/badge/Communication-2196F3)
+![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-009688)
+
+### Languages (spoken)
+![French](https://img.shields.io/badge/French-Native-0055A4)
+![English](https://img.shields.io/badge/English-Fluent-1E90FF)
+![German](https://img.shields.io/badge/German-Scholar-FFCC00)
+
+### Interests
+![Aerospace](https://img.shields.io/badge/Aerospace-121212)
+![Sustainable Tech](https://img.shields.io/badge/Sustainable_Tech-4CAF50)
+![Web Application](https://img.shields.io/badge/Web_Application-2196F3)
+![Application Development](https://img.shields.io/badge/Application_Development-FF9800)
 
 ---
 
