@@ -2,61 +2,86 @@
 
 ## About Me 🚀
 
-I'm **Thibaud** "Biohazard" **Marlier**, an aspiring **Full-Stack Developer** with a passion for software development, cybersecurity, and aviation. Currently, I’m studying at [ALGOSUP](https://algosup.com/en.html) in **Vierzon**, France, where I gain practical knowledge through real-world projects in a **100% English curriculum**.
+I'm **Thibaud “Biohazard” Marlier**, an aspiring **Full-Stack Developer** currently studying at **SUPINFO — Tours, France**.  
+Previously I studied at [ALGOSUP](https://algosup.com/en.html) (Vierzon) where I learned through project-based, English-taught programs.
 
-My mission is to contribute to advancements that enhance **ecological sustainability**, **economic efficiency**, and overall **well-being**. Whether it’s designing more efficient aircraft or developing **sustainable aerospace systems**, I am driven to make a positive impact on our world.
+I also serve as a **Reservist in the French Gendarmerie**, which strengthens my discipline, leadership, and teamwork — qualities I bring to every project.
 
-## Skills 💡
+My mission is to contribute to advancements that promote **ecological sustainability**, **technological innovation**, and **societal well-being** — building secure and efficient systems for a better future.
 
-- **Programming Languages**: Flutter/Dart, Python, C++, GDScript, Verilog
-- **Languages**: English (fluent), French (native), German (scholar)
-- **Soft Skills**: Management, Communication, Teamwork, Problem-Solving
-- **Game Engine**: Godot
-- **Technical Writing**
+---
 
-## Projects 🌟
+## 🧠 Technical Skills
 
-### School Projects
+- **Languages:** C++, C#, JS, Assembly, HTML/CSS 
+- **Frameworks & Tools:** Godot, Git, VS Code
+- **Soft Skills:** Leadership, Communication, Teamwork, Problem-Solving  
+- **Languages (spoken):** French (native) • English (fluent) • German (scholar)  
+- **Interests:** Aerospace, Sustainable Tech, Web Application, Application Development
 
-- **Project [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)**: During this project, we created a **virtual processor** from scratch using the **C programming language**. We aimed to develop an **educational** CPU that could be utilized by everyone, from beginners to professional developers. Additionally, we created a **compiler** capable of compiling our assembly language. This project provided an excellent opportunity to deepen our understanding of CPU functionality and compiler construction. (Project Manager)
+---
 
-- **Project [AdoptACandidate](https://github.com/algosup/2023-2024-project-5-flutter-team-3)**: During this project, we developed a Tinder-like mobile application designed to streamline the recruitment process for both job-seekers and HR professionals. The application focused on fostering anonymity to reduce biases in hiring, enabling fairer and more inclusive matches between candidates and companies. Built using Flutter and the Dart programming language, this project offered an excellent opportunity to explore modern mobile application development while addressing key challenges in the recruitment industry. (Software Engineer)
+## 💼 Featured Projects
 
-- **Project [SeriousGame](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)**: During this project, we developed a serious video game with the goal of raising awareness and educating players about the complex concepts of climate change. The game aimed to simplify and convey critical environmental issues in an engaging and interactive way. Built using the Godot Engine and the GDScript programming language, this project provided an opportunity to explore the intersection of education, gaming, and environmental advocacy, showcasing the potential of video games as a powerful tool for social impact. (Software Engineer)
+### 🎮 [SeriousGame](https://github.com/algosup/2024-2025-project-2-serious-game-team-8)  
+A serious game to **educate players about climate change**.  
+**Tech:** Godot, GDScript — *Software Engineer*
 
-- **Project [FPGA](https://github.com/algosup/2024-2025-project-1-fpga-team-8)**: During this project, we recreated the iconic Frogger arcade game using the exotic technology of FPGAs. The game was implemented in the Verilog programming language, requiring us to navigate unique hardware constraints and optimize performance. This project offered a hands-on opportunity to explore the potential of FPGA technology in gaming applications while deepening our understanding of hardware programming and real-time system design. (Technical Writer)
+### ⚙️ [Virtual Processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-3)  
+A virtual CPU + compiler built in **C** as an educational platform to learn computer architecture.  
+**Tech:** C — *Project Manager*
 
-## Education 🎓
+### 📱 [AdoptACandidate](https://github.com/algosup/2023-2024-project-5-flutter-team-3)  
+A Tinder-like recruitment app that encourages **anonymous, bias-reducing hiring**.  
+**Tech:** Flutter / Dart — *Software Engineer*
 
-[**ALGOSUP**](https://algosup.com/en.html), **Vierzon**, **France**
+### 🕹️ [FPGA Frogger](https://github.com/algosup/2024-2025-project-1-fpga-team-8)  
+A reimplementation of *Frogger* on FPGA using **Verilog** — exploring hardware constraints and timing.  
+**Tech:** Verilog — *Technical Writer*
 
-- Software Engineering (5-year program)
-  - Focus on practical learning and real-world projects
-  - Strong emphasis on soft skills development
-    - Management
-    - Communication
-    - Teamwork
-    - Problem-Solving
-    - Critical Thinking
+---
 
-## Contact Me 📧
+## 🎓 Education
 
-Feel free to reach out for collaboration, questions, or just a tech chat!
+- **SUPINFO** — Tours, France  
+  *Master’s in Computer Science (ongoing)* — focus on full-stack dev, cybersecurity, cloud.
 
-**Email: thibaud.marlier@algosup.com**  
-**LinkedIn: [Thibaud Marlier](https://www.linkedin.com/in/thibaudmarlier/)**
+- **ALGOSUP** — Vierzon, France  
+  *Software Engineering program (completed coursework)* — project-based learning in an English environment.
 
-## GitHub Stats 📈
+---
+
+## 🎖️ Service & Values
+
+- **Reservist — French Gendarmerie**  
+  Proud to serve; I apply discipline, leadership and teamwork from service into tech projects.
+
+- **Core Values:** Integrity • Consistency • Continuous Improvement • Team Spirit
+
+---
+
+## 📫 Contact
+
+- **Email:** thibaud.marlier@algosup.com  
+- **LinkedIn:** https://www.linkedin.com/in/thibaudmarlier/  
+- **GitHub:** https://github.com/biohazardyee
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-![Biohazardyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark)
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark&show_icons=true)
 </div>
 
-## Spotify 🎵
+---
+
+## 🎵 Spotify
 
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hfqp8c18cnz6lgj2zzykeq3hf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hfqp8c18cnz6lgj2zzykeq3hf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/hfqp8c18cnz6lgj2zzykeq3hf)
 </div>
+
+---
+
+> ✨ *Discipline, precision, and innovation — whether in code or service, I aim to make every action count.*
