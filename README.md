@@ -35,9 +35,13 @@ A virtual CPU + compiler built in **C** as an educational platform to learn comp
 A Tinder-like recruitment app that encourages **anonymous, bias-reducing hiring**.  
 **Tech:** Flutter / Dart — *Software Engineer*
 
-### 🕹️ [FPGA Frogger](https://github.com/algosup/2024-2025-project-1-fpga-team-8)  
-A reimplementation of *Frogger* on FPGA using **Verilog** — exploring hardware constraints and timing.  
-**Tech:** Verilog — *Technical Writer*
+### 🧀 [Bubble Intermarché](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-4)  
+A **Bubble-based web app** developed for Intermarché, recommending wine and cheese pairings with local dishes.  
+**Role:** Program Manager
+
+### 🍔 [FoodExpress](https://github.com/Biohazardyee/FoodExpress)  
+A **Node.js/Express.js RESTful API** for an online food ordering platform, featuring user management, restaurant listings, and menu handling.  
+**Role:** Developer
 
 ---
 
