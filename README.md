@@ -91,9 +91,11 @@ A **Node.js/Express.js RESTful API** for an online food ordering platform, featu
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark&show_icons=true)
 
 ---
 
@@ -101,6 +103,6 @@ A **Node.js/Express.js RESTful API** for an online food ordering platform, featu
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hfqp8c18cnz6lgj2zzykeq3hf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/hfqp8c18cnz6lgj2zzykeq3hf)
 
----
+</div>
 
 > ✨ *Discipline, precision, and innovation — whether in code or service, I aim to make every action count.*
