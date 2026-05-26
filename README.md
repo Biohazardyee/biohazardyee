@@ -51,7 +51,7 @@ I'm currently sharpening my skills at **SUPINFO — Tours**, building on a stron
 
 ## 📊 My Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=biohazardyee&theme=chartreuse-dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Biohazardyee&theme=chartreuse-dark&show_icons=true)
 
 ---
 
